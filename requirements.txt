@@ -1,0 +1,15 @@
+torch==2.14.0
+torchvision==0.29.0
+torchattacks==3.5.1
+numpy==1.26.4
+pillow==12.3.0
+scikit-learn==1.5.2
+matplotlib
+pandas
+tqdm
+opencv-python-headless
+scipy==1.14.1
+
+# App dependencies are intentionally kept separate to avoid version conflicts.
+# Install them with:
+#   python -m pip install -r app/requirements.txt
